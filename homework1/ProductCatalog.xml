@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+
+<TVCatalog>
+    <tv id="Sony 4K Ultra HD">
+        <name>Sony 4K Ultra HD</name>
+        <price>399.99</price>
+        <image>sony2.jpeg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>Remote control holder</accessory>
+            <accessory>Universal TV Stand Base</accessory>
+			<accessory>Sony Bravia Remote Case</accessory>
+            <accessory>Full Motion TV Wall Mount</accessory>
+			
+        </accessories>
+    </tv>
+    <tv id="Sony Smart LED TV">
+        <name>Sony Smart LED TV</name>
+        <price>399.99</price>
+        <image>sony3.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>Remote control holder</accessory>
+            <accessory>Universal TV Stand Base</accessory>
+            <accessory>Sony Bravia Remote Case</accessory>
+            <accessory>Full Motion TV Wall Mount</accessory>
+        </accessories>
+    </tv>
+
+    <tv id="Sony Bravia">
+        <name>Sony Bravia</name>
+        <price>349.99</price>
+        <image>sonytv.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+           <accessory>Remote control holder</accessory>
+            <accessory>Universal TV Stand Base</accessory>
+            <accessory>Sony Bravia Remote Case</accessory>
+            <accessory>Full Motion TV Wall Mount</accessory>
+        </accessories>
+    </tv>
+    <tv id="LG 4K OLED TV ">
+        <name>LG 4K OLED TV</name>
+        <price>349.99</price>
+        <image>LG1.jpg</image>
+        <manufacturer>LG</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+           <accessory>Remote control holder</accessory>
+            <accessory>Universal TV Stand Base</accessory>
+            <accessory>Sony Bravia Remote Case</accessory>
+            <accessory>Full Motion TV Wall Mount</accessory>
+			
+        </accessories>
+    </tv>
+    <tv id="LG 4K UHD TV">
+        <name>LG 4K UHD TV</name>
+        <price>249.99</price>
+        <image>LG2.jpg</image>
+        <manufacturer>LG</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>Remote control holder</accessory>
+            <accessory>Universal TV Stand Base</accessory>
+            <accessory>Sony Bravia Remote Case</accessory>
+            <accessory>Full Motion TV Wall Mount</accessory>
+        </accessories>
+    </tv>
+    <tv id="Samsung 4K UHD 7 Series">
+        <name>Samsung 4K UHD 7 Series</name>
+        <price>249.99</price>
+        <image>samsung1.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>Remote control holder</accessory>
+            <accessory>Universal TV Stand Base</accessory>
+            <accessory>Sony Bravia Remote Case</accessory>
+            <accessory>Full Motion TV Wall Mount</accessory>
+        </accessories>
+    </tv>
+    <tv id="Samsung 4K 8 Series">
+        <name>Samsung 4K 8 Series</name>
+        <price>249.99</price>
+        <image>samsung2.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+           <accessory>Remote control holder</accessory>
+            <accessory>Universal TV Stand Base</accessory>
+            <accessory>Sony Bravia Remote Case</accessory>
+            <accessory>Full Motion TV Wall Mount</accessory>
+        </accessories>
+    </tv>
+</TVCatalog>
+
+<SoundSystemsCatalog>
+    <soundsystem id="Bose 8 Sorround Sound Speaker">
+        <name>Bose 8 sorround sound speaker</name>
+        <price>189.99</price>
+        <image>Bose1.jpeg</image>
+        <manufacturer>Bose</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </soundsystem>
+    <soundsystem id="Bose S1 Pro System">
+        <name>Bose S1 Pro System</name>
+        <price>189.99</price>
+        <image>Bose2.jpeg</image>
+        <manufacturer>Bose</manufacturer>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+    </soundsystem>
+    <soundsystem id="Sony Muteki Audio System">
+        <name>Sony Muteki Audio System</name>
+        <price>299.99</price>
+        <image>sony1.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </soundsystem>
+    <soundsystem id="Sony Portable GPX">
+        <name>Sony Portable GPX</name>
+        <price>299.99</price>
+        <image>sony2.jpeg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </soundsystem>
+    <soundsystem id="Logitech Z313 with Subwoofer">
+        <name>Logitech Z313 with Subwoofer</name>
+        <price>150.99</price>
+        <image>Logitech1.jpg</image>
+        <manufacturer>Logitech</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </soundsystem>
+    <soundsystem id="Logitech Z506 2.1 Sorround Speaker System">
+        <name>Logitech Z506 2.1 Sorround Speaker System</name>
+        <price>150.99</price>
+        <image>Logitech2.jpg</image>
+        <manufacturer>Logitech</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </soundsystem>
+
+</SoundSystemsCatalog>
+<PhonesCatalog>
+<phone id="i Phone 6s Plus">
+        <name>i Phone 6s Plus</name>
+        <price>50.99</price>
+        <image>Apple1.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</phone>
+<phone id="iPhone">
+        <name>iPhone</name>
+        <price>50.99</price>
+        <image>Apple2.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>Refurbished</condition>
+        <discount>15.0</discount>
+</phone>
+<phone id="Samsung Galaxy S9">
+        <name>Samsung Galaxy S9</name>
+        <price>50.99</price>
+        <image>Samsung1.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</phone>
+<phone id="Samsung Galaxy Note 10">
+        <name>Samsung Galaxy Note 10</name>
+        <price>50.99</price>
+        <image>Samsung2.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</phone>
+<phone id="Nokia 9.1 Series">
+        <name>Nokia 9.1 Series</name>
+        <price>50.99</price>
+        <image>Nokia1.jpg</image>
+        <manufacturer>Nokia</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</phone>
+<phone id="Nokia 10 Series">
+        <name>Nokia 10 Series</name>
+        <price>50.99</price>
+        <image>Nokia2.jpg</image>
+        <manufacturer>Nokia</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</phone>
+</PhonesCatalog>
+
+<LaptopsCatalog>
+    <laptop id="MacBook Pro">
+        <name>MacBook Pro</name>
+        <price>50.99</price>
+        <image>Apple1.jpeg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </laptop>
+    <laptop id="MacBook Air">
+        <name>MacBook Air</name>
+        <price>50.99</price>
+        <image>Apple2.jpeg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </laptop>
+    <laptop id="HP Pavilion 15.6 HD">
+        <name>HP Pavilion 15.6 HD</name>
+        <price>50.99</price>
+        <image>HP1.jpg</image>
+        <manufacturer>HP</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </laptop>
+    <laptop id="HP ENVY x360">
+        <name>HP ENVY x360</name>
+        <price>50.99</price>
+        <image>HP2.jpg</image>
+        <manufacturer>HP</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </laptop>
+    <laptop id="DELL inspiron 15.6">
+        <name>DELL inspiron 15.6</name>
+        <price>50.99</price>
+        <image>Dell1.jpg</image>
+        <manufacturer>DELL</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </laptop>
+    <laptop id="Dell Latitude Ultrabook">
+        <name>Dell Latitude Ultrabook</name>
+        <price>50.99</price>
+        <image>Dell2.jpeg</image>
+        <manufacturer>Dell</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </laptop>
+</LaptopsCatalog>
+
+<VoiceAssistantCatalog>
+    <voiceassistant id="Google Home">
+        <name>Google Home</name>
+        <price>50.99</price>
+        <image>Google1.jpg</image>
+        <manufacturer>Google</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </voiceassistant>
+    <voiceassistant id="Google Home mini">
+        <name>Google Home mini</name>
+        <price>50.99</price>
+        <image>Google2.jpg</image>
+        <manufacturer>Google</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </voiceassistant>
+    <voiceassistant id="Amazon Echo Dot">
+        <name>Amazon Echo Dot</name>
+        <price>50.99</price>
+        <image>Amazon1.jpg</image>
+        <manufacturer>Amazon</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </voiceassistant>
+    <voiceassistant id="Amazon echo 2nd Gen">
+        <name>Amazon echo 2nd Gen</name>
+        <price>50.99</price>
+        <image>Amazon2.jpg</image>
+        <manufacturer>Amazon</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </voiceassistant>
+    <voiceassistant id="Amazon Alexa">
+        <name>Amazon Alexa</name>
+        <price>50.99</price>
+        <image>Amazon3.jpg</image>
+        <manufacturer>Amazon</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </voiceassistant>
+</VoiceAssistantCatalog>
+
+<FitnessWatchesCatalog>
+    <fitnesswatch id="Fitbit Fitness Tracker">
+        <name>Fitbit Fitness Tracker</name>
+        <price>50.99</price>
+        <image>Fitbit1.jpg</image>
+        <manufacturer>Fitbit</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </fitnesswatch>
+     <fitnesswatch id="Fitbit - Inspire Fit">
+        <name>Fitbit - Inspire Fit</name>
+        <price>50.99</price>
+        <image>Fitbit2.jpg</image>
+        <manufacturer>Fitbit</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </fitnesswatch>
+     <fitnesswatch id="Polar - A370 Fitness Tracker">
+        <name>Polar - A370 Fitness Tracker</name>
+        <price>50.99</price>
+        <image>Polar1.jpg</image>
+        <manufacturer>Polar</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </fitnesswatch>
+     <fitnesswatch id="Polar M430 GPS Running Watch">
+        <name>Polar M430 GPS Running Watch</name>
+        <price>50.99</price>
+        <image>Polar2.jpg</image>
+        <manufacturer>Polar</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </fitnesswatch>
+     <fitnesswatch id="Moko Smart Fitness Tracker">
+        <name>Moko Smart Fitness Tracker</name>
+        <price>50.99</price>
+        <image>Moko1.jpg</image>
+        <manufacturer>Moko</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </fitnesswatch>
+     <fitnesswatch id="Moko Fitness sweatproof wrist watch">
+        <name>Moko Fitness sweatproof wrist watch</name>
+        <price>50.99</price>
+        <image>Moko2.jpg</image>
+        <manufacturer>Moko</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </fitnesswatch>
+</FitnessWatchesCatalog>
+
+<SmartWatchesCatalog>
+     <smartwatch id="Samsung Gear S Smart Watch">
+        <name>Samsung Gear S Smart Watch</name>
+        <price>50.99</price>
+        <image>Samsung1.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </smartwatch>
+    <smartwatch id="Samsung Galaxy G3 Smartwatch">
+        <name>Samsung Galaxy G3 Smartwatch</name>
+        <price>50.99</price>
+        <image>Samsung2.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </smartwatch>
+    <smartwatch id="LG W270 2.0 Series">
+        <name>LG W270 2.0 Series</name>
+        <price>50.99</price>
+        <image>LG1.jpg</image>
+        <manufacturer>LG</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </smartwatch>
+    <smartwatch id="LG SmartTek 2.0 W Series">
+        <name>LG SmartTek 2.0 W Series</name>
+        <price>50.99</price>
+        <image>LG2.jpg</image>
+        <manufacturer>LG</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </smartwatch>
+    <smartwatch id="Sony SmartWatch2 Waterproof">
+        <name>Sony SmartWatch2 Waterproof</name>
+        <price>50.99</price>
+        <image>Sony1.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </smartwatch>
+    <smartwatch id="Sony X8 Smart Watch ">
+        <name>Sony X8 Smart Watch</name>
+        <price>50.99</price>
+        <image>Sony2.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </smartwatch>
+</SmartWatchesCatalog>
+
+<HeadphonesCatalog>
+    <headphone id="Sony WH100XM3 Stero Headphone">
+        <name>Sony WH100XM3 Headphone</name>
+        <price>50.99</price>
+        <image>Sony1.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </headphone>
+    <headphone id="Sony RF3 Noise Cancelling headphone">
+        <name>Sony RF3 Noise Cancelling Headphones</name>
+        <price>50.99</price>
+        <image>Sony2.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </headphone>
+    <headphone id="Bose Sound Sport Headphones">
+        <name>Bose Sound Sport Headphones</name>
+        <price>50.99</price>
+        <image>Bose1.jpg</image>
+        <manufacturer>Bose</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </headphone>
+    <headphone id="Bose 2.1 ZX Series QuietComfort Wireless Headphone">
+        <name>Bose 2.1 ZX Series QuietComfort Wireless Headphone</name>
+        <price>50.99</price>
+        <image>Bose2.jpg</image>
+        <manufacturer>Bose</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </headphone>
+    <headphone id="Sennheiser PXC 550 Wireless Headphone">
+        <name>Sennheiser PXC 550 Wireless Headphone</name>
+        <price>50.99</price>
+        <image>Sennheiser1.jpg</image>
+        <manufacturer>Sennheiser</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </headphone>
+    <headphone id="Sennheiser RS 120 Noise Cancelling Headphone">
+        <name>Sennheiser RS 120 Noise Cancelling Headphone</name>
+        <price>50.99</price>
+        <image>Sennheiser2.jpg</image>
+        <manufacturer>Sennheiser</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </headphone>
+</HeadphonesCatalog>
+
+<WirelessPlansCatalog>
+    <wirelessplan id="Basic">
+        <name>Basic</name>
+        <price>50.99</price>
+        <image>Basic.jpg</image>
+        <manufacturer>Basic</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </wirelessplan>
+    <wirelessplan id="Pro prem">
+        <name>Pro prem</name>
+        <price>50.99</price>
+        <image>Premium.jpg</image>
+        <manufacturer>Premium</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </wirelessplan>
+    <wirelessplan id="Ultimate">
+        <name>Ultimate</name>
+        <price>50.99</price>
+        <image>Ultimate.jpg</image>
+        <manufacturer>Ultimate</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </wirelessplan>
+</WirelessPlansCatalog>
+
+ 
+<AccessoryCatalog>
+
+    <accessory id="Sony Bravia Remote Case">
+        <name>Sony Bravia Remote Case</name>
+        <price>89.99</price>
+        <image>Sony1.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="Universal TV Stand Base">
+        <name>Universal TV Stand Base</name>
+        <price>89.99</price>
+        <image>Sony2.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+	 <accessory id="Full Motion TV Wall Mount">
+        <name>Full Motion TV Wall Mount</name>
+        <price>89.99</price>
+        <image>tv1.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="Remote control holder">
+        <name>Remote control holder</name>
+        <price>29.99</price>
+        <image>tv2.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+</AccessoryCatalog>
+
+</ProductCatalog>
